@@ -2,7 +2,7 @@
 
 Atividade prática da disciplina de design profissional
 
-#Tecnologias
+# Tecnologias
 
 -React;
 -JavaScript (ES6+);
